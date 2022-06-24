@@ -1,0 +1,20 @@
+{
+  "name": "scope-closure-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimnic/scope-closure-course.git"
+  },
+  "keywords": [],
+  "author": "Andrés Rengifo <andresm.rengifo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aimnic/scope-closure-course/issues"
+  },
+  "homepage": "https://github.com/aimnic/scope-closure-course#readme"
+}
